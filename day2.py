@@ -9,10 +9,17 @@
 # final = round(totalamount, 2)
 # print(f"Each person has to pay {final}")
 
-
-
 print("hello"[1]) # prints 2nd character from the string;
-
 
 # To get length we len function 
 print(len("hello world"))
+
+#to get type 
+print(type(34))
+
+#to convert int to string
+num = 3
+
+newnum = str(num)
+
+print("hello" + newnum)
